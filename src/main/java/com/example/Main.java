@@ -34,5 +34,6 @@ public class Main {
         System.out.println("Лучшее время заездов");
         System.out.println(Arrays.toString(finishList));
     }
+    //GitComment
 }
 
